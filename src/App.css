@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+}
+
+.App-content {
+  margin-top: 5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.App-left-content {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.App-right-content {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.App-header {
+  background-color: #222;
+  height: 6rem;
+  padding: 25px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.falling-video {
+  width: 12rem;
+  height: 22rem;
+  align-self: center;
+}
+
+.list-title {
+  width: 25rem;
+}
