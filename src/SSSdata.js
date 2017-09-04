@@ -1,4 +1,4 @@
-export default var data = [
+export default const data = [
   {
     title: 'sss001',
     content: 'I have gun'

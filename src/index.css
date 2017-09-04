@@ -6,3 +6,9 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+@media screen and (max-width: 640px) {
+  body {
+    background-size: auto;
+  }
+}
